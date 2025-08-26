@@ -71,7 +71,7 @@ Snake-Game/
 │
 ├── snake.py          # Código principal del juego
 ├── README.md         # Documentación del proyecto
-└── assets/           # (Opcional) Carpeta para imágenes, sonidos, etc.
+└── diagramas/        # Imágenes
 ```
 
 ## 📊 Diagramas (AA1 & AA2)

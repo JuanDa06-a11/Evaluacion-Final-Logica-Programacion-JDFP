@@ -42,11 +42,11 @@ Este proyecto consiste en recrear el **juego clásico Snake** en Python, aplican
 ## 🕹️ Cómo ejecutar el juego
 1. Clona este repositorio:
 ```bash
-git clone https://github.com/JuanDa/Snake-Game.git
+git clone https://github.com/JuanDa06-a11/Evaluacion-Final-Logica-Programacion-JDFP.git
 ```
 2. Ingresa a la carpeta:
 ```bash
-cd Snake-Game
+cd Evaluacion-Final-Logica-Programacion-JDFP
 ```
 3. Ejecuta el juego:
 ```bash

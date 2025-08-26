@@ -1,8 +1,8 @@
 # Evaluacion-Final-Logica-Programacion-JDFP
 Repositorio con los contenidos para la evaluacion final 
-# 🐍 Proyecto Integrador: Juego Snake
+# Proyecto Integrador: Juego Snake
 
-## 📌 Datos del proyecto
+## Datos del proyecto
 - **Nombre:** Juego de la Serpiente (Snake)
 - **Autor:** Juan David Flores
 - **Materia:** Proyecto Integrador - El impacto de las nuevas tecnologías en la sociedad
@@ -36,3 +36,55 @@ Este proyecto consiste en recrear el **juego clásico Snake** en Python, aplican
 2. Instalar pygame:
    ```bash
    pip install pygame
+Instalar pygame:
+```bash
+pip install pygame
+
+## 🕹️ Cómo ejecutar el juego
+Clona este repositorio:
+git clone https://github.com/JuanDa/Snake-Game.git
+Ingresa a la carpeta:
+cd Snake-Game
+Ejecuta el juego:
+python snake.py
+
+##🎮 Controles
+⬆️ Flecha arriba → Mover hacia arriba
+
+⬇️ Flecha abajo → Mover hacia abajo
+
+⬅️ Flecha izquierda → Mover a la izquierda
+
+➡️ Flecha derecha → Mover a la derecha
+
+##📂 Estructura del proyecto
+
+Snake-Game/
+│
+├── snake.py          # Código principal del juego
+├── README.md         # Documentación del proyecto
+└── assets/           # (Opcional) Carpeta para imágenes, sonidos, etc.
+
+##📊 Diagramas (AA1 & AA2)
+El desarrollo incluyó la creación de:
+
+Diagramas funcionales UML
+
+Diagrama de arquitectura de software
+
+(Adjuntar imágenes en la carpeta /docs o pegarlas aquí en el README cuando estén listas.)
+
+##✨ Mejoras futuras
+Añadir niveles de dificultad
+
+Implementar puntajes más altos (high score)
+
+Agregar sonidos y gráficos personalizados
+
+Hacer una versión online con Flask/Django
+
+##Autor
+Proyecto desarrollado por Juan David Flores
+Estudiante de Ingeniería en Sistemas – UIDE
+2025
+

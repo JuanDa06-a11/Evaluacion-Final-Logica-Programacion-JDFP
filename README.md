@@ -44,19 +44,16 @@ Este proyecto consiste en recrear el **juego clásico Snake** en Python, aplican
 ```bash
 git clone https://github.com/JuanDa/Snake-Game.git
 
----
-
 Ingresa a la carpeta:
-```bash
 cd Snake-Game
 
+Ejecuta el juego:
+python snake.py
+```
 ---
 
-Ejecuta el juego:
-```bash
-python snake.py
-
-##🎮 Controles
+## 🕹️ Cómo ejecutar el juego
+## 🎮 Controles
 ⬆️ Flecha arriba → Mover hacia arriba
 
 ⬇️ Flecha abajo → Mover hacia abajo

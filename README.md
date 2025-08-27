@@ -81,8 +81,6 @@ Diagramas funcionales UML
 
 Diagrama de arquitectura de software
 
-(Adjuntar imágenes en la carpeta /docs o pegarlas aquí en el README cuando estén listas.)
-
 ## ✨ Mejoras futuras
 Añadir niveles de dificultad
 
